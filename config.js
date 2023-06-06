@@ -13,22 +13,22 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.apikey = '-' // LOLHUMAN
-global.rosekey = '-' // ROSE
+global.apikey = 'APOLOZEA' // LOLHUMAN
+global.rosekey = 'cba86fac49e37d63f9bd4561' // ROSE
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD V1.3'
-global.namaowner = 'Arxzy'
+global.namabot = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.namaowner = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.nomerowner = '62 895-1308-1052'
-global.premium = ['6289513081052']
+global.owner = ['51945463812']
+global.nomerowner = '51 945-463-812'
+global.premium = ['51945463812']
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
-global.prefa = ['', '.']
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'SUSCRIBE\n\n\𝚈𝚃:SysSolutionsPeru'
+global.prefa = ['#', '.']
 global.sp = '•'
 
 //—————「 Set Message 」—————//
